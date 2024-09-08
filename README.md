@@ -5,6 +5,7 @@
 - typescript
 - eslint
 - prettier
+- tailwindcss
 
 ## Expanding the ESLint configuration
 
