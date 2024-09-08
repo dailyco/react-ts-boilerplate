@@ -5,6 +5,7 @@
 - typescript
 - eslint
 - prettier
+- vanilla-extract
 
 ## Expanding the ESLint configuration
 
