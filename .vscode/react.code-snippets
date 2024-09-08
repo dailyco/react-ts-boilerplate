@@ -1,0 +1,20 @@
+{
+    "TypeScript React Component": {
+      "prefix": "tsx",
+      "body": [
+        "import * as React from 'react';",
+        "",
+        "type ${1:${TM_FILENAME_BASE}}Props = {",
+        "  $2",
+        "};",
+        "",
+        "const $1: React.FC<${1}Props> = ($3) => {",
+        "  return null;",
+        "};",
+        "",
+        "export default $1;",
+        ""
+      ],
+      "description": "TypeScript React Component"
+    }
+  }
